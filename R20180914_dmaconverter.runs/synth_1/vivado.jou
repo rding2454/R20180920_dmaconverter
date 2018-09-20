@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.1_sdx (64-bit)
+# SW Build 1915620 on Thu Jun 22 17:54:59 MDT 2017
+# IP Build 1908669 on Thu Jun 22 19:20:41 MDT 2017
+# Start of session at: Wed Sep 19 16:51:34 2018
+# Process ID: 9158
+# Current directory: /home/rui/workspace/R20180914_dmaconverter/R20180914_dmaconverter.runs/synth_1
+# Command line: vivado -log design_1_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_wrapper.tcl
+# Log file: /home/rui/workspace/R20180914_dmaconverter/R20180914_dmaconverter.runs/synth_1/design_1_wrapper.vds
+# Journal file: /home/rui/workspace/R20180914_dmaconverter/R20180914_dmaconverter.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source design_1_wrapper.tcl -notrace
